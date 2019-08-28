@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Example Site
-=======
 # Angular Assignment
->>>>>>> ec71606a4b11af6e62c9393d5d90401851d9fc49
-
 Contributor: [Christopher Nelson](https://www.linkedin.com/in/chrisnelson222)
 
 ### Assignment Instructions
