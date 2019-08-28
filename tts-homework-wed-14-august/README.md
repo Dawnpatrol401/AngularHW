@@ -1,4 +1,4 @@
-# Example Site
+# H1 Example Site
 
 This is an example practice github readme.
 
